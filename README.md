@@ -5,6 +5,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-151515?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/-Node.js-151515?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 ![Python](https://img.shields.io/badge/-Python-151515?style=flat-square&logo=python&logoColor=3776AB)
+![Go](https://img.shields.io/badge/-Go-151515?style=flat-square&logo=go&logoColor=00ADD8)
+![Rust](https://img.shields.io/badge/-Rust-151515?style=flat-square&logo=rust&logoColor=DEA584)
 ![Docker](https://img.shields.io/badge/-Docker-151515?style=flat-square&logo=docker&logoColor=2496ED)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-151515?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-151515?style=flat-square&logo=opencv&logoColor=5C3EE8)
