@@ -13,4 +13,4 @@
 
 [![Readme Card](https://github-stats-extended.vercel.app/api?username=wiziscool&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/wiziscool)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wiziscool&theme=react-dark)](https://github.com/wiziscool)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=wiziscool&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&exclude_repo=sumy7.github.io)](https://github.com/wiziscool)
