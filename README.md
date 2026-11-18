@@ -1,24 +1,7 @@
 <table width="100%">
   <tr>
     <td valign="middle">
-      <a href="https://x.com/dong_junze" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><img align="right" width="22" alt="X" src="https://cdn.simpleicons.org/x/000000" /></picture></a>
-      <a href="https://blog.junze.dev" title="Blog"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rss/ffffff"><img align="right" hspace="10" width="22" alt="Blog" src="https://cdn.simpleicons.org/rss/000000" /></picture></a>
-      <a href="mailto:dongjunze2004@gmail.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/ffffff"><img align="right" width="22" alt="Email" src="https://cdn.simpleicons.org/gmail/000000" /></picture></a>
       <a href="https://junze.dev" title="junze.dev"><img width="24" align="absmiddle" alt="junze.dev" src="https://junze.dev/assets/favicon.png" /></a>&nbsp; <b>Hey! I'm Junze 👋</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Full-stack developer &amp; open-source contributor — building AI agent infrastructure, developer tooling, and resilient network systems.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>projects</b><br />
-      <a href="https://github.com/WizisCool/oh-my-cpa"><b>oh-my-cpa</b></a> — Self-hosted control plane &amp; usage observability console for CLIProxyAPI<br />
-      <a href="https://github.com/WizisCool/dsh-ears"><b>dsh-ears</b></a> — Speech-to-text &amp; smart text polishing plugin for DeepSeek Harness<br />
-      <a href="https://github.com/WizisCool/model-status"><b>model-status</b></a> — Status &amp; health monitor for OpenAI-compatible model endpoints<br />
-      <a href="https://github.com/WizisCool/WonderfulUI"><b>WonderfulUI</b></a> — Desktop highlight video library &amp; scraper built with Tauri and Vue
     </td>
   </tr>
   <tr>
@@ -29,7 +12,6 @@
       <img src="https://img.shields.io/badge/-Go-111?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
       <img src="https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=FFDE57" alt="Python" />
       <img src="https://img.shields.io/badge/-Rust-111?style=flat-square&logo=rust&logoColor=DEA584" alt="Rust" />
-      <img src="https://img.shields.io/badge/-Bash-111?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" />
     </td>
   </tr>
   <tr>
@@ -50,7 +32,6 @@
       <img src="https://img.shields.io/badge/-Claude-111?style=flat-square&logo=claude&logoColor=D97757" alt="Claude" />
       <img src="https://img.shields.io/badge/-Gemini-111?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
       <img src="https://img.shields.io/badge/-DeepSeek-111?style=flat-square&logo=deepseek&logoColor=4D6BFE" alt="DeepSeek" />
-      <img src="https://img.shields.io/badge/-OpenCV-111?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
     </td>
   </tr>
   <tr>
