@@ -44,9 +44,14 @@
   <tr>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WizisCool/WizisCool/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WizisCool/WizisCool/refs/heads/output/github-contribution-grid-snake.svg" />
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WizisCool/WizisCool/refs/heads/output/github-contribution-grid-snake.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=WizisCool&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=WizisCool&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=transparent" />
+        <img height="165" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=WizisCool&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=transparent" />
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=WizisCool&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=WizisCool&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" />
+        <img height="165" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=WizisCool&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" />
       </picture>
     </td>
   </tr>
