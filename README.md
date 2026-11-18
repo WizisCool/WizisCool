@@ -7,8 +7,8 @@
   <tr>
     <td>
       <b>languages</b><br />
-      <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
       <img src="https://img.shields.io/badge/-Go-111?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+      <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
       <img src="https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=FFDE57" alt="Python" />
       <img src="https://img.shields.io/badge/-Rust-111?style=flat-square&logo=rust&logoColor=DEA584" alt="Rust" />
     </td>
